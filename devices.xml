@@ -3,5 +3,5 @@
   <project name="hoshiyomiX/device_tree_android_infinix_X695C"
            path="device/infinix/note10pro"
            remote="github"
-           revision="lineage-18" />
+           revision="nad-11" />
 </manifest>
